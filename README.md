@@ -5,3 +5,10 @@ Repo for AWS Python Code
 ## 01-webotron
 
 Script that will sync a local directory to an S3 bucket, and optionally configure R53 and Cloudfront.
+
+### Features
+
+Webotron currently has these features:
+
+- List buckets
+- List contents of a bucket
