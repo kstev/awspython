@@ -13,3 +13,4 @@ Webotron currently has these features:
 - List buckets
 - List contents of a bucket
 - Create and set up bucket for static website hosting
+- Sync directory contents with bucket
