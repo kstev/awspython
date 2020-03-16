@@ -12,6 +12,7 @@ pylint = "*"
 [packages]
 boto3 = "*"
 click = "*"
+pyflakes = "*"
 
 [requires]
 python_version = "3.7"
