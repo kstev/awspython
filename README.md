@@ -15,3 +15,4 @@ Webotron currently has these features:
 - Create and set up bucket for static website hosting
 - Sync directory contents with bucket
 - Set AWS profile with --profile <profileName>
+- Configure route 53 domain
